@@ -1,0 +1,13 @@
+{
+    "name": "Promanga Source",
+    "author": "Custom User",
+    "version": 1,
+    "sources": [
+        {
+            "name": "Promanga",
+            "baseUrl": "https://promanga.pro",
+            "lang": "ar",
+            "supportsLatest": true
+        }
+    ]
+}
